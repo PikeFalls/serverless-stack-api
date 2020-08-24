@@ -1,0 +1,10 @@
+{
+    "pathParameters": {
+      "id": "643d5160-e625-11ea-aefe-cb8091f77717"
+    },
+    "requestContext": {
+      "identity": {
+        "cognitoIdentityId": "Lazy River"
+      }
+    }
+  }

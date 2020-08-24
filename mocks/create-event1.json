@@ -1,0 +1,8 @@
+{
+    "body": "{\"content\":\"GumSum GumSum\",\"attachment\":\"BlahBlah.jpg\"}",
+    "requestContext": {
+        "identity": {
+        "cognitoIdentityId": "Lazy River"
+        }
+    }
+}
